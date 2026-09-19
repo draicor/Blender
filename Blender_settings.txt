@@ -1,0 +1,58 @@
+Female mannequin:
+CAMERA CENTERED AT CHARACTER:
+Character’s height is Z = 1.74 m, so its vertical center is:
+1.74 / 2 = 0.87 m
+
+C = (0, -d, d + 0.87) where d is any positive distance. In this case, d = 8m
+
+Location (0, -8, 8.87)
+Rotation (45°, 0°, 0°)
+Orthographic Scale 2.5
+Render 512×512px
+
+BLENDER MATERIAL COLORS FOR EASY TRACING:
+heat_mat	#C74ABF
+torso_mat	#4A7FBF
+pelvis_mat	#D94A4A
+left_arm_mat	#6FBF4A
+right_arm_mat	#F2C14E
+left_leg_mat	#8A5FBF
+right_leg_mat	#3FBFA6
+joints_mat	#2B2B33
+outline_mat	#000000
+
+In the material, we also need to scroll down and change the viewport display color to match the colors above.
+
+FLAT LIGHTING FOR TRACING:
+Viewport shading
+lighting flat
+color -> object -> material
+backface culling -> enabled
+options -> outline enabled
+cavity -> type screen with ridge 0.0 and valley 2.0
+X-ray and shadows off
+
+Black outline material.
+create a new material called Outline_mat, in the shader editor set the material output surface connected to an emission node with black color. in the material tab, change the viewport display to black too.
+
+Select the character mesh, go to modifiers, add a solidify modifier, set thickness to 0.005m, offset to 1.0, normals flip, and material offset to 8 and place the material after that offset, 9 in this case. This will create a black outline around the mesh different body parts and materials.
+
+TRANSPARENT BACKGROUND:
+Go to Render Properties (camera icon).
+Scroll to the Film section and check Transparent.
+Go to Output Properties (printer icon).
+Set File Format to PNG.
+Set Color to RGBA (the "A" is the alpha channel)
+
+Fixing the Viewport Blur when Zoomed Out:
+Go to Edit > Preferences.
+In the Viewport tab, look for the Quality section.
+You will see a setting for Viewport Anti-Aliasing, set it to no anti-aliasing.
+
+
+RENDER RESOLUTION:
+For pixel art, try to render at 256x256 pixel resolution and use aseprite sprite size to resize to 128x128 then trace over it by hand, with no material outline. (Takes too long!)
+
+For sprites, render at 512x512 px with color management:
+View Standard
+Look Medium High Contrast

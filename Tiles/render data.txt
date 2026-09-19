@@ -1,0 +1,35 @@
+Camera:
+Location:
+X: 0m
+Y: -8m
+Z: 8.87m
+Rotation X: 45°
+
+
+asphalt_road:
+Location:
+X: 55.728m
+Y: -1.4443m
+Z: -0.21212m
+Scale: 0.025
+
+asphalt_road_white_border:
+Location:
+X: 42.936m
+Y: -1.1801m
+Z: -0.21212m
+Scale: 0.026
+
+asphalt_road_yellow_border:
+Location:
+X: 44.227m
+Y: -1.4097m
+Z: -0.21212m
+Scale: 0.023
+
+asphalt_road_double_yellow_lines:
+Location:
+X: 48.617m
+Y: -3.14m
+Z: -0.21212m
+Scale: 0.023
