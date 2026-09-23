@@ -1,0 +1,20 @@
+World Color pure White with 1.0 strength
+Materials are set to 1.0 metallic, 1.0 roughness except skin and eyes, which was set to 0.5 metallic.
+
+Camera settings are
+orthographic
+orthogrtaphic scale 3.0
+256x256px resolution
+outline 1 thickness black
+
+camera transform
+x 4m
+y -4m
+z 3.85m
+rotation x 61.31°
+rotation y 0°
+rotation z 45°
+
+Animation Frames:
+bow_standing_idle: 1, 11, 21, 31, 41, 51, 61
+bow_walking_forward: 1, 7, 12, 17, 22, 27, 32
