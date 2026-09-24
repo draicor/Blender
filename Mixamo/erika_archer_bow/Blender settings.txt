@@ -17,4 +17,5 @@ rotation z 45°
 
 Animation Frames:
 bow_standing_idle: 1, 11, 21, 31, 41, 51, 61
-bow_walking_forward: 1, 7, 12, 17, 22, 27, 32
+bow_standing_walk_forward: 1, 7, 12, 17, 22, 27, 32
+bow_standing_run_forward: 1, 4, 7, 10, 13, 16, 19, 22, 25
