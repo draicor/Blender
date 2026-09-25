@@ -4,6 +4,7 @@ bow_standing_walk_forward: 1, 7, 12, 17, 22, 27, 32
 bow_standing_run_forward: 1, 4, 7, 10, 13, 16, 19, 22, 25
 bow_standing_draw_arrow: 1, 6, 10, 14, 18, 22, 26, 30
 bow_standing_aim_idle: 1, 21, 41, 61, 81, 101
+bow_standing_quiver_arrow: reverse draw_arrow.
 
 Godot frames:
 bow_standing_idle: 7 fps
@@ -11,3 +12,4 @@ bow_standing_walk_forward: 7 fps
 bow_standing_run_forward: 12 fps
 bow_standing_draw_arrow: 
 bow_standing_aim_idle: 9 fps
+bow_standing_quiver_arrow: 
