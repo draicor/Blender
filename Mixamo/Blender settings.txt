@@ -14,3 +14,6 @@ z 3.85m
 rotation x 61.31°
 rotation y 0°
 rotation z 45°
+
+For characters, 8 sprites every 45°.
+For projectiles, 32 sprites, every 11.25°, matching the 45° of characters and objects perfectly at 45°.
