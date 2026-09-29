@@ -11,7 +11,7 @@ Godot frames:
 bow_standing_idle: 6 fps
 bow_standing_walk_forward: 7 fps
 bow_standing_run_forward: 12 fps
-bow_standing_draw_arrow: 12 fps
+bow_standing_draw_arrow: 16 fps
 bow_standing_aim_idle: 4 fps
 bow_standing_quiver_arrow: 12 fps
 bow_standing_fire_arrow: 12 fps
