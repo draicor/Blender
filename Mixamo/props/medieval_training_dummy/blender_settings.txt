@@ -1,0 +1,1 @@
+Under materials, I reduced the roughness IOR value from 1.5 to 1.0 to make the final render a bit darker.
