@@ -1,0 +1,23 @@
+Animation Frames:
+bow_idle: 1, 11, 21, 31, 41, 51, 61
+bow_walk: 1, 7, 12, 17, 22, 27, 32
+bow_run: 1, 4, 7, 10, 13, 16, 19, 22, 25
+bow_draw: 1, 6, 10, 14, 18, 22, 26, 30
+bow_aim: 1, 21, 41, 81, 101
+bow_quiver: reverse draw_arrow.
+bow_fire: 1, 7, 10, 13, 16, 19
+bow_aim_walk: 1, 4, 7, 11, 17, 20, 24, 29, 33
+bow_bash: 1, 4, 10, 15, 19, 24
+bow_kick: 1, 6, 11, 21, 26, 31, 38
+
+Godot frames:
+bow_idle: 6 fps
+bow_walk: 7 fps
+bow_run: 12 fps
+bow_draw: 16 fps
+bow_aim: 4 fps
+bow_quiver: 12 fps
+bow_fire: 12 fps
+bow_aim_walk: 8 fps
+bow_bash: 10 fps
+bow_kick: 8 fps
