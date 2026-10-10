@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Mace
+* source:	https://sketchfab.com/3d-models/medieval-mace-b07424113d854a5e9846187694af7d28
+* author:	Psychloor (https://sketchfab.com/blomqvistkevin)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Mace" (https://sketchfab.com/3d-models/medieval-mace-b07424113d854a5e9846187694af7d28) by Psychloor (https://sketchfab.com/blomqvistkevin) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
