@@ -1,0 +1,7 @@
+Animation Frames:
+sword_idle: 1, 16, 31, 46
+sword_walk: 1, 6, 11, 16, 21, 26, 31, 36
+
+
+Godot frames:
+sword_idle: 
