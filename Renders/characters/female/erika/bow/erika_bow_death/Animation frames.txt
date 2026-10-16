@@ -17,11 +17,3 @@ death_nw: 1, 4, 7, 11, 14, 18, 27, 32, 37, 40, 46, 49, 62
 
 Godot frames:
 death: 100ms
-bow_death_
-bow_death_
-bow_death_
-bow_death_
-bow_death_
-bow_death_
-bow_death_
-bow_death_
