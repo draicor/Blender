@@ -7,12 +7,12 @@ bow_quiver: reverse draw_arrow
 bow_aim: 1, 21, 41, 81, 101
 bow_fire: 1, 7, 10, 13, 16, 19
 bow_aim_walk: 1, 4, 7, 11, 17, 20, 24, 29, 33
-
 bow_bash: 1, 4, 10, 15, 19, 24
 bow_kick: 1, 6, 11, 21, 26, 31, 38
 bow_stagger_front: 1, 7, 13, 19, 25, 31
 bow_stagger_back: 1, 4, 8, 12, 16
 bow_stagger_head: 1, 4, 8, 12, 20
+
 bow_roll: 1, 5, 10, 15, 20, 25, 29, 36, 42, 45, 48
 
 Godot frames:
