@@ -1,19 +1,20 @@
 Animation Frames:
-from Great Sword Death Backward.fbx:
-death_sw: 1 (idle), 8, 13, 31, 40, 46, 49, 54, 62, 73
-death_se: 1 (idle), 8, 13, 31, 40, 46, 49, 54, 62, 73
-death_ne: 1 (idle), 8, 13, 31, 40, 46, 49, 62, 73
+from Great Sword Death Backward.fbx (bow_death_diagonal):
+death_sw: 1 (idle), 8, 13, 31, 40, 45, 49, 54, 62, 73
+death_se: 1 (idle), 8, 13, 31, 40, 45, 49, 54, 62, 73
+death_ne: 1 (idle), 8, 13, 31, 40, 45, 49, 62, 73
 
-from Great Sword Death Forward.fbx:
+from Great Sword Death Forward.fbx (bow_death_vertical):
 death_n: 1 (idle), 11, 19, 24, 31, 38, 43, 47, 51, 57, 60, 77
 death_s: 1 (idle), 11, 19, 24, 31, 38, 43, 47, 51, 57, 60, 77
+death_nw: 1 (idle), 11, 19, 24, 31, 38, 43, 47, 51, 57, 60, 77
 
-from Standing Death Right 02.fbx (erika bow):
-death_w: 1, 4, 8, 13, 19, 26, 30, 35, 40, 44, 48, 55, 61, 71
+from Standing Death Right 02.fbx (bow_death_w):
+death_w: 1 (idle), 4, 8, 13, 19, 26, 30, 35, 40, 44, 48, 55, 60, 71
 
-from Standing Death Left 02.fbx (erika bow):
-death_e: 1, 4, 7, 11, 14, 18, 27, 32, 37, 42, 46, 50, 62
-death_nw: 1, 4, 7, 11, 14, 18, 27, 32, 37, 40, 46, 49, 62
+from Standing Death Left 02.fbx (bow_death_e):
+death_e: 1 (idle), 4, 7, 11, 14, 18, 27, 32, 37, 42, 46, 50, 62
+
 
 Godot frames:
 death: 100ms
