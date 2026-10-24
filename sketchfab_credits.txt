@@ -1,4 +1,18 @@
+--------------------------------------------------------------------
+
+CHARACTERS
+
+https://sketchfab.com/3d-models/skeleton-06959a2724884c6994b6f15d39cfd163
+
 "Skaryn Goblin Nsfw" () by Dhext3r is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/fuse-civilian-1-6fc4bddf4d364e6b9fa2f050011e03ce
+
+https://sketchfab.com/3d-models/medieval-peasant-outfit-free-e7aa183b848646558ceb3a3f449e344b
+
+--------------------------------------------------------------------
+
+WEAPONS
 
 "medieval sword" (https://skfb.ly/6snUE) by LowSeb is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
@@ -10,12 +24,70 @@
 
 https://sketchfab.com/3d-models/medieval-shield-471f1dfb2d1d40d6994be92047de3645
 
-https://sketchfab.com/3d-models/floor-material-fb32b41a61f447a8bb4e6218d7920a02
+https://sketchfab.com/3d-models/axe-7f039a3e6834494a80a3c0a7b2bd5a4c
 
-https://sketchfab.com/3d-models/fuse-civilian-1-6fc4bddf4d364e6b9fa2f050011e03ce
+--------------------------------------------------------------------
 
-https://sketchfab.com/3d-models/medieval-peasant-outfit-free-e7aa183b848646558ceb3a3f449e344b
+ARMOR
 
 https://sketchfab.com/3d-models/rusty-chainmail-9921a49bd86d4f899508b418080a6a58
 
 https://sketchfab.com/3d-models/gambeson-medieval-clothing-0ad2da5b6f6c44b6a6d2d0a5d510c569
+
+--------------------------------------------------------------------
+
+GROUND:
+
+"Floor material" (https://skfb.ly/oqwOp) by DJMaesen is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+https://sketchfab.com/3d-models/wall-tile-seamless-fbd469ecd6f7495f9728fa206fe32940
+
+https://sketchfab.com/3d-models/ancient-tiles-9747fedf9ee84a13be6d06e8a2526c59
+
+https://sketchfab.com/3d-models/forest-ground-pbr-seamless-a68ad59033fe4f93934abbf1cdd619e0
+
+https://sketchfab.com/3d-models/rock-floor-tile-01f45a3edf7a4162b99c4dec420b7700
+
+https://sketchfab.com/3d-models/dungeonbricks-ed9eaf9337f940b8969e83f849fc98eb
+
+https://sketchfab.com/3d-models/floor-tiles-from-the-great-synagogue-in-oswiecim-e51d0599e871477780520e2dc6b6d4ef
+
+https://sketchfab.com/3d-models/apocaliptic-ground-tileable-material-25474f1b4cd141fdbc991c41220c51b6
+
+https://sketchfab.com/3d-models/terrain-ground1-fbdc02c6299444b4a9283a922bf9d828
+
+https://sketchfab.com/3d-models/terrainground-2-c20c093d3d354780a9b4952c45c9d69b
+
+--------------------------------------------------------------------
+
+GROUND DECORATION:
+
+https://sketchfab.com/3d-models/grass-patches-6952780b80594a31aab2dedf7249a47a
+
+--------------------------------------------------------------------
+
+WALL DECORATION:
+
+https://sketchfab.com/3d-models/torch-a3b8085436d14977a69f965859d96575
+
+--------------------------------------------------------------------
+
+WORLD STATIC OBJECTS:
+
+https://sketchfab.com/3d-models/trees-eed7470843504aa592514554a6100fbc
+
+https://sketchfab.com/3d-models/portal-3279b8d99fe244059c40a66e8aa39590
+
+https://sketchfab.com/3d-models/gallows-b496d60155cb4b2fb5864c3e2c68a0e2
+
+--------------------------------------------------------------------
+
+GROUND INTERACTABLES:
+
+https://sketchfab.com/3d-models/barrel-31f97a56576548c388e057010afc6914
+
+https://sketchfab.com/3d-models/water-drinking-pool-85565ec5894e4fcc8e0f2fe363468b94
+
+
+
+--------------------------------------------------------------------

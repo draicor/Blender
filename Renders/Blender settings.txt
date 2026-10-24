@@ -1,5 +1,5 @@
 World Color pure White with 1.0 strength
-Materials are set to 1.0 metallic, 1.0 roughness except skin and eyes, which was set to 0.5 metallic.
+Materials are set to 1.0 metallic, 1.0 roughness except skin and eyes.
 
 Camera settings are
 orthographic
@@ -10,8 +10,8 @@ outline 1 thickness black
 camera transform
 x 4m
 y -4m
-z 3.85m
-rotation x 61.31°
+z 3m
+rotation x 70.5288° (true 3:1 aspect ratio)
 rotation y 0°
 rotation z 45°
 
