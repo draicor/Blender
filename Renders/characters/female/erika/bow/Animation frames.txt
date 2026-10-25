@@ -3,7 +3,7 @@ bow_idle: 1, 11, 21, 31, 41, 51, 61
 bow_walk: 1, 7, 12, 17, 22, 27, 32
 bow_run: 1, 4, 7, 10, 13, 16, 19, 22, 25
 bow_draw: 1, 6, 10, 14, 18, 22, 26, 30
-bow_quiver: reverse draw_arrow
+bow_quiver: 30, 26, 22, 18, 14, 10, 6, 1
 bow_aim: 1, 21, 41, 81, 101
 bow_fire: 1, 7, 10, 13, 16, 19
 bow_aim_walk: 1, 4, 7, 11, 17, 20, 24, 29, 33

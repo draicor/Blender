@@ -1,0 +1,20 @@
+Animation Frames:
+from Great Sword Death Backward.fbx (bow_death_diagonal):
+death_sw: 8, 13, 31, 40, 45, 49, 53, 63
+death_se: 8, 13, 31, 40, 44, 49, 52, 62, 73
+death_ne: 8, 13, 31, 40, 45, 47, 49, 58, 61
+
+from Great Sword Death Forward.fbx (bow_death_vertical):
+death_n: 8, 19, 24, 31, 38, 44, 48, 52, 56, 60, 70
+death_s: 11, 19, 24, 31, 38, 44, 47, 52, 57, 61
+death_nw: 11, 19, 24, 31, 38, 43, 47, 51, 57, 64
+
+from Standing Death Right 02.fbx (bow_death_w):
+death_w: 4, 8, 13, 19, 24, 27, 32, 37, 42, 46, 55, 59, 67
+
+from Standing Death Left 02.fbx (bow_death_e):
+death_e: 4, 7, 11, 18, 29, 33, 36, 40, 43, 46, 49
+
+
+Godot frames:
+death: 100ms
