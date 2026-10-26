@@ -13,7 +13,10 @@ bow_stagger_front: 7, 13, 19, 25, 31
 bow_stagger_back: 4, 8, 12, 16
 bow_stagger_head: 4, 8, 12, 20
 bow_roll: 5, 10, 15, 20, 25, 29, 36, 42, 45, 48
-bow_block_start: 1, 
+bow_block_start: 44, 37, 32
+bow_block_end: 32, 37, 44
+bow_block: 28, 30, 32
+bow_block_impact: 18, 22, 26
 
 Godot frames:
 bow_idle: 6 fps
@@ -29,3 +32,7 @@ bow_kick: 8 fps
 bow_death: 8 fps
 bow_stagger: 8 fps
 bow_roll: 10 fps
+bow_block_start: 
+bow_block_end: 
+bow_block:
+bow_block_impact: 
