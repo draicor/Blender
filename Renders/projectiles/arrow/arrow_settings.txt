@@ -1,3 +1,11 @@
-In aseprite, I removed the background to reduce the size, then I lowered all of the arrow sprites 7 pixels south, so they are exactly centered in a 128x128 canvas, set the grid to 64x64 grid in aseprite and copied the 128x128 around the arrow and pasted it over a single 512x1024 canvas in a new aseprite file, to create the 32 directions (11.25° difference) for the arrow projectiles.
+I resized the model until it fit correctly in the scene, I placed it under the character, and while in the aim animation, i posed it with the bow too, correctly holding it while aiming.
+I then duplicated it, because we need one that is a child of the character, and one by itself with the same angles but as a stand alone projectile, i set the height to be 1.35m in Z so it flies from the hand of erika's character. I ended up moving the arrow 4° towards the screen when looking East, so it matches the bow animation.
 
-We could re use this for a fire arrow, but we would need to have an animation with fire at the tip, and possibly end up having a 4-8 frames animation for each of the 32 directions, resulting in a 512-1024px x 4096 sprite sheet for a single type of projectile, fire arrow in this case!
+I render 32 images, I start at East, at 0° (I set all transforms to 0° before starting) and keep adding -11.25° to Z until I do the 360° spin.
+
+In Aseprite, I created 8 layers (E, SE, S, SW, W, NW, N, NE) each with 4 frames for the 360 spin. I centered all of the frames to the middle of the canvas and then resized it down from 256x256 to 96x96 so it fits nicely and uses less VRAM.
+
+We could re use this for a fire arrow, but we would need to have an animation with fire at the tip, and possibly end up having a 4-8 frames animation for each of the 32 directions.
+
+NOTE:
+DON'T use shadows for projectiles, hide the plane from the render, its confusing, and if the projectile gets stuck to a target, like arrows do with destructibles, the shadow breaks immersion at some angles!

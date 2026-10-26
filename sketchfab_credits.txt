@@ -42,13 +42,19 @@ https://sketchfab.com/3d-models/axe-7f039a3e6834494a80a3c0a7b2bd5a4c
 
 OUTFITS + ARMOR PIECES
 MALE:
+https://sketchfab.com/3d-models/medieval-clothing-free-4df74f937a074e8daa9b512dc600422e
+
+https://sketchfab.com/3d-models/medieval-peasant-outfit-free-e7aa183b848646558ceb3a3f449e344b
+
+https://sketchfab.com/3d-models/blacksmith-free-0a33aaeab3034f45b1e891644a3ba1e8
+
 https://sketchfab.com/3d-models/rusty-chainmail-9921a49bd86d4f899508b418080a6a58
 
 https://sketchfab.com/3d-models/gambeson-medieval-clothing-0ad2da5b6f6c44b6a6d2d0a5d510c569
 
 https://sketchfab.com/3d-models/bandit-armor-and-clothes-game-model-d6cf54210a564ff5ab2c288bac7cd66f
 
-https://sketchfab.com/3d-models/medieval-peasant-outfit-free-e7aa183b848646558ceb3a3f449e344b
+https://sketchfab.com/3d-models/gambeson-medieval-clothing-0ad2da5b6f6c44b6a6d2d0a5d510c569
 
 https://sketchfab.com/3d-models/medieval-knight-sculpture-game-ready-6cdd055b4afa41eb9360dbbfe75c7f10
 
@@ -56,8 +62,18 @@ https://sketchfab.com/3d-models/lowpoly-pbr-knight-armour-7e8485a272784e6cb3b5bd
 
 https://sketchfab.com/3d-models/plated-knight-medieval-24fd61c662414344bcb81ddc62fd1e3b
 
+ARTSTATION:
+https://www.artstation.com/marketplace/p/drxqk/3d-medieval-clothes-fbx-obj-zprj-4k-pbr-textures
+
+CGTRADER:
+https://www.cgtrader.com/3d-models/medieval-clothes
+
 
 FEMALE:
+https://sketchfab.com/3d-models/medieval-peasant-female-outfit-free-b4fd5481d71e498aa3fc234e8a2a091f
+
+https://sketchfab.com/3d-models/medieval-peasant-female-outfit-free-045592cd151a48da8ab025f980c6b709
+
 https://sketchfab.com/3d-models/draven-knight-38878cc7450a41ac93d6557b2ca3779d
 
 https://sketchfab.com/3d-models/knight-8ca0999ecc5c40d9aa7f0bcc8c6ce9d5
@@ -116,6 +132,13 @@ https://sketchfab.com/3d-models/trees-eed7470843504aa592514554a6100fbc
 https://sketchfab.com/3d-models/portal-3279b8d99fe244059c40a66e8aa39590
 
 https://sketchfab.com/3d-models/gallows-b496d60155cb4b2fb5864c3e2c68a0e2
+
+STATUES:
+https://sketchfab.com/3d-models/sant-pere-dalcantara-museu-frederic-mares-1a74f5182b6f4ec88452edd4d5e6db6e
+
+https://sketchfab.com/3d-models/lucrecia-morta-biblioteca-museu-victor-balaguer-746073313a7f462bb17e4bd96b76c0df
+
+
 
 --------------------------------------------------------------------
 
