@@ -1,14 +1,26 @@
+https://store.steampowered.com/app/257400/Fuse
+
 --------------------------------------------------------------------
 
-CHARACTERS
+MONSTERS
 
 https://sketchfab.com/3d-models/skeleton-06959a2724884c6994b6f15d39cfd163
 
 "Skaryn Goblin Nsfw" () by Dhext3r is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
+--------------------------------------------------------------------
+
+CHARACTERS
+
+MALE:
 https://sketchfab.com/3d-models/fuse-civilian-1-6fc4bddf4d364e6b9fa2f050011e03ce
 
-https://sketchfab.com/3d-models/medieval-peasant-outfit-free-e7aa183b848646558ceb3a3f449e344b
+https://sketchfab.com/3d-models/dark-knight-e2208bdc46304f6faa18728778986f35
+
+
+FEMALE:
+https://sketchfab.com/3d-models/female-spartan-46770ed1e2de4de292093c635cf5e473
+
 
 --------------------------------------------------------------------
 
@@ -28,11 +40,36 @@ https://sketchfab.com/3d-models/axe-7f039a3e6834494a80a3c0a7b2bd5a4c
 
 --------------------------------------------------------------------
 
-ARMOR
-
+OUTFITS + ARMOR PIECES
+MALE:
 https://sketchfab.com/3d-models/rusty-chainmail-9921a49bd86d4f899508b418080a6a58
 
 https://sketchfab.com/3d-models/gambeson-medieval-clothing-0ad2da5b6f6c44b6a6d2d0a5d510c569
+
+https://sketchfab.com/3d-models/bandit-armor-and-clothes-game-model-d6cf54210a564ff5ab2c288bac7cd66f
+
+https://sketchfab.com/3d-models/medieval-peasant-outfit-free-e7aa183b848646558ceb3a3f449e344b
+
+https://sketchfab.com/3d-models/medieval-knight-sculpture-game-ready-6cdd055b4afa41eb9360dbbfe75c7f10
+
+https://sketchfab.com/3d-models/lowpoly-pbr-knight-armour-7e8485a272784e6cb3b5bda68ff319fa
+
+https://sketchfab.com/3d-models/plated-knight-medieval-24fd61c662414344bcb81ddc62fd1e3b
+
+
+FEMALE:
+https://sketchfab.com/3d-models/draven-knight-38878cc7450a41ac93d6557b2ca3779d
+
+https://sketchfab.com/3d-models/knight-8ca0999ecc5c40d9aa7f0bcc8c6ce9d5
+
+https://sketchfab.com/3d-models/bracers-with-straps-6689820d69d34fa7b3c3b1e69ef1e349
+
+https://sketchfab.com/3d-models/womans-armour-429f13985c87415b86eaed314ed722f6
+
+https://sketchfab.com/3d-models/accessories-a0c4dc08dfa84c2a8c4e382434e824c0
+
+
+
 
 --------------------------------------------------------------------
 
