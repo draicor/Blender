@@ -38,10 +38,18 @@ https://sketchfab.com/3d-models/medieval-shield-471f1dfb2d1d40d6994be92047de3645
 
 https://sketchfab.com/3d-models/axe-7f039a3e6834494a80a3c0a7b2bd5a4c
 
+https://sketchfab.com/3d-models/medieval-spear-f61070945153418fa11c4abae286b292
+
+https://sketchfab.com/3d-models/crusader-sword-d2d2aaa8512245d9ad112e6635a64ded
+
+
+
 --------------------------------------------------------------------
 
 OUTFITS + ARMOR PIECES
 MALE:
+https://sketchfab.com/3d-models/medieval-bascinet-with-visor-016b0f84c7394b5ca2006c1af3ba6aec
+
 https://sketchfab.com/3d-models/medieval-clothing-free-4df74f937a074e8daa9b512dc600422e
 
 https://sketchfab.com/3d-models/medieval-peasant-outfit-free-e7aa183b848646558ceb3a3f449e344b
@@ -62,14 +70,25 @@ https://sketchfab.com/3d-models/lowpoly-pbr-knight-armour-7e8485a272784e6cb3b5bd
 
 https://sketchfab.com/3d-models/plated-knight-medieval-24fd61c662414344bcb81ddc62fd1e3b
 
-ARTSTATION:
-https://www.artstation.com/marketplace/p/drxqk/3d-medieval-clothes-fbx-obj-zprj-4k-pbr-textures
+https://sketchfab.com/3d-models/leather-pants-free-f3d8e925db784591ad54ce18a27e540d
 
-CGTRADER:
-https://www.cgtrader.com/3d-models/medieval-clothes
+https://sketchfab.com/3d-models/vest-armor-free-2ae4859b1dae4b6eb3b372863586874b
 
+https://sketchfab.com/3d-models/robe-free-fcc16fda59e84ee29ea7e920d556d166
 
-FEMALE:
+https://sketchfab.com/3d-models/hood-assassin-free-74c3a8a7e724410c8eac67edd5ecf8cb
+
+https://sketchfab.com/3d-models/medieval-guard-ca548172f0984660bc4213b9404284fa
+
+https://sketchfab.com/3d-models/camisa-colonial-8204a771122343ebbf5f1af00af17c61
+
+https://sketchfab.com/3d-models/medieval-vagrant-knights-5b7e13532eeb4a97b8a515e98cd262d2
+
+https://sketchfab.com/3d-models/medieval-dad32362383744b09cdaa3e1fbd879f8
+
+----------------------------
+
+FEMALE OUTFITS:
 https://sketchfab.com/3d-models/medieval-peasant-female-outfit-free-b4fd5481d71e498aa3fc234e8a2a091f
 
 https://sketchfab.com/3d-models/medieval-peasant-female-outfit-free-045592cd151a48da8ab025f980c6b709
@@ -83,6 +102,33 @@ https://sketchfab.com/3d-models/bracers-with-straps-6689820d69d34fa7b3c3b1e69ef1
 https://sketchfab.com/3d-models/womans-armour-429f13985c87415b86eaed314ed722f6
 
 https://sketchfab.com/3d-models/accessories-a0c4dc08dfa84c2a8c4e382434e824c0
+
+https://sketchfab.com/3d-models/medieval-dress-7e3f7c7c5f7c4f66bc917cdb7c4d892e
+
+https://sketchfab.com/3d-models/viking-outfit-fc334ab5dd78429e87a2ffa3f7b22d50
+
+https://sketchfab.com/3d-models/medieval-armor-baec77f2c4a64d02b5a7d247100c2182
+
+https://sketchfab.com/3d-models/medieval-armour-465012e8b25d4f3cbb2ed90a6e23ce1b
+
+https://sketchfab.com/3d-models/blusa-falda-medieval-a9ba8107f8b54f9a9fa79f21fbe0c5de
+
+https://sketchfab.com/3d-models/vestido-criollo-colonial-16838a7720c442cc971e32bf8dc7d905
+
+https://sketchfab.com/3d-models/medieval-corset-002-6cb6690202604d328d8a0f34c7d2c585
+
+https://sketchfab.com/3d-models/medievalfantasy-female-armor-set-0243239775f24dedb4821836e090bbc7
+
+
+
+----------------------------
+
+ARTSTATION:
+https://www.artstation.com/marketplace/p/drxqk/3d-medieval-clothes-fbx-obj-zprj-4k-pbr-textures
+
+CGTRADER:
+https://www.cgtrader.com/3d-models/medieval-clothes
+
 
 
 
@@ -111,6 +157,8 @@ https://sketchfab.com/3d-models/terrain-ground1-fbdc02c6299444b4a9283a922bf9d828
 
 https://sketchfab.com/3d-models/terrainground-2-c20c093d3d354780a9b4952c45c9d69b
 
+https://sketchfab.com/3d-models/medieval-bulding-kit-cb3ed1341d4f48f28850bd86d2f2a7d5
+
 --------------------------------------------------------------------
 
 GROUND DECORATION:
@@ -119,26 +167,142 @@ https://sketchfab.com/3d-models/grass-patches-6952780b80594a31aab2dedf7249a47a
 
 --------------------------------------------------------------------
 
+WORLD STATIC OBJECTS:
+
+TREES:
+https://sketchfab.com/3d-models/trees-eed7470843504aa592514554a6100fbc
+
+----------------------------
+
+WALLS:
+https://sketchfab.com/3d-models/medieval-training-grounds-game-environment-fb33049c7eb948a8ba5ce7a33603b902
+
+https://sketchfab.com/3d-models/medieval-pack-wood-set-1-cd30a0df5bf142fd943b0216c2c34079
+
+----------------------------
+
 WALL DECORATION:
 
 https://sketchfab.com/3d-models/torch-a3b8085436d14977a69f965859d96575
 
---------------------------------------------------------------------
+----------------------------
 
-WORLD STATIC OBJECTS:
 
-https://sketchfab.com/3d-models/trees-eed7470843504aa592514554a6100fbc
-
+DOORS:
 https://sketchfab.com/3d-models/portal-3279b8d99fe244059c40a66e8aa39590
 
+https://sketchfab.com/3d-models/medieval-door-pack-7359ae35ee664739aaaab25726ca4792
+
+----------------------------
+
+OUTSIDE DECORATION:
 https://sketchfab.com/3d-models/gallows-b496d60155cb4b2fb5864c3e2c68a0e2
+
+https://sketchfab.com/3d-models/old-fashioned-sack-c2bb74d1f3e24e849b523f22456ffee3
+
+https://sketchfab.com/3d-models/stacked-firewood-24694d04c1704aa1838ac775e1013f07
+
+https://sketchfab.com/3d-models/medieval-cart-5dedd347d77943729475486f0d1d05e8
+
+https://sketchfab.com/3d-models/medieval-wooden-cart-c4ee19920e9b45aaa6ebe37839b1ad2a
+
+https://sketchfab.com/3d-models/wood-table-7a731b3714cc4fb4b91e3f21adf6d07f
+
+https://sketchfab.com/3d-models/medieval-stall-4a5a40e78e4b481bafbb576303f992cd
+
+https://sketchfab.com/3d-models/medieval-well-0d7acae089fa4c39af47f56b875ebbed
+
+
+
+----------------------------
+
+INSIDE DECORATION:
+
+https://sketchfab.com/3d-models/medieval-fireplace-free-36b73510064943d2b7a08918339dfb99
+
+https://sketchfab.com/3d-models/candle-294591cf1b5b4d7b85fabcde7463ec04
+
+https://sketchfab.com/3d-models/medieval-blanket-hanger-bf3e910e46e64259acd53e4dddd503d1
+
+https://sketchfab.com/3d-models/torture-tools-25964da2ef7f4617955e1657a305e753
+
+
+
+
+
+----------------------------
+
+GENERIC FURNITURE:
+https://sketchfab.com/3d-models/medieval-chair-a22b2efd6a5d46e0a32f69d41575f38c
+
+https://sketchfab.com/3d-models/medieval-table-00ef60b9e7f94a89bd3605b5abd76963
+
+https://sketchfab.com/3d-models/authentic-medieval-chair-free-aaf41ce3b76e482d84b2296695603a1e
+
+https://sketchfab.com/3d-models/medieval-table-free-6d4f897c019f4a55aeda23cda6e6fb57
+
+https://sketchfab.com/3d-models/medieval-tavern-table-c2a4ddff955c40fe9695e30297624806
+
+https://sketchfab.com/3d-models/medieval-oven-934f8db84ac848b19926446032f35f28
+
+https://sketchfab.com/3d-models/medieval-toilet-57a75f3225df4868935b1207da1531a7
+
+https://sketchfab.com/3d-models/medieval-props-f7dd6f08d42e4027922b9a7603ae6a1d
+
+----------------------------
+
+BLACKSMITHING:
+https://sketchfab.com/3d-models/grind-stone-824ff2b6929b457fbb27c8deb44a27b3
+
+https://sketchfab.com/3d-models/medieval-tools-set-e543a102465a4fbdb2eb89e3b8d3afb0
+
+https://sketchfab.com/3d-models/medieval-blacksmith-vise-27f9f65e020f4f88b65b42a510f5a433
+
+http://sketchfab.com/3d-models/asset02-medieval-anvil-f6123f83e46345ccac727e35d91392ee
+
+https://sketchfab.com/3d-models/asset03-medieval-grindstone-376eb8506e1f419d8d2933454cd332ff
+
+https://sketchfab.com/3d-models/asset04-medieval-bellows-87d4d2982108467d97b7e42ae9a04b20
+
+https://sketchfab.com/3d-models/medieval-props-49151962c1434846bf7eaf59e668fafa
+
+
+
+
+
+----------------------------
+
+WITCHCRAFT:
+https://sketchfab.com/3d-models/wizard-book-stand-18d694bb036648bfb8b878e5164a5100
+
+https://sketchfab.com/3d-models/wizard-table-f41572634ed049b68a9a1afebebdabd4
+
+https://sketchfab.com/3d-models/alchemy-table-free-09e4710c5f7247c39202442a352023a5
+
+https://sketchfab.com/3d-models/medieval-writing-table-7c044e19a68343b3b23c997b14aff4a5
+
+https://sketchfab.com/3d-models/medieval-book-stack-0ea43f7fdcb7411cb1123b987f297d41
+
+https://sketchfab.com/3d-models/medieval-telescope-8414fb67e992492e801f85150d801041
+
+
+
+----------------------------
+
+WINDOWS:
+https://sketchfab.com/3d-models/stylized-medieval-window-d1f123d0f1864c7f8f1a338309d2020a
+
+----------------------------
+
+BRIDGES:
+https://sketchfab.com/3d-models/a-simple-medieval-wooden-bridge-67e4f0d6d0dd41d6a4c2003fd0ed75cb SEARCH THIS PROFILE
+
+----------------------------
 
 STATUES:
 https://sketchfab.com/3d-models/sant-pere-dalcantara-museu-frederic-mares-1a74f5182b6f4ec88452edd4d5e6db6e
 
 https://sketchfab.com/3d-models/lucrecia-morta-biblioteca-museu-victor-balaguer-746073313a7f462bb17e4bd96b76c0df
-
-
 
 --------------------------------------------------------------------
 
@@ -146,8 +310,21 @@ GROUND INTERACTABLES:
 
 https://sketchfab.com/3d-models/barrel-31f97a56576548c388e057010afc6914
 
+https://sketchfab.com/3d-models/medieval-chest-18515cf4236142b186e1d819b9e0869b
+
+https://sketchfab.com/3d-models/medieval-chest-1be4b664c1774fb080a9b0520c3ac786
+
+https://sketchfab.com/3d-models/medieval-chests-collection-free-14be667fb0734b67a61e33169127e42a
+
 https://sketchfab.com/3d-models/water-drinking-pool-85565ec5894e4fcc8e0f2fe363468b94
+
+https://sketchfab.com/3d-models/medieval-notice-board-566a4332b57d4045a1cc4ffec77b4b8f
 
 
 
 --------------------------------------------------------------------
+
+TABLE INTERACTABLES:
+
+https://sketchfab.com/3d-models/medieval-flask-12c92e2d3bf645178776030d6e45bc10
+
