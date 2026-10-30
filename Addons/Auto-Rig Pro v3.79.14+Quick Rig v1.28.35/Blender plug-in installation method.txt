@@ -1,0 +1,15 @@
+﻿Blender 4 or lower version
+Open the software, click Edit → Preference → Plug-in (AAdd-ons) → Install (Install) on the top menu, and select the plug-in zip file to install in the pop-up window.
+
+Blender 4.1 or higher
+Open the software, go to Edit → Preferences → Add-ons in the top menu, pull down in the upper right corner, select Install from Disk, and select the plug-in zip file to install in the pop-up window.
+
+Where to use the plug-in: Restart Blender, and you can see the installed plug-in in File → User Settings → Plug-ins
+
+Note: Many people can find that blender cannot find the Contents folder.
+Solution: Right click on Blender and select "Show Package Contents"
+
+Open Blender, go to Edit - Preferences - Plug-ins, - search for plug-in keywords (the search terms should be short) to see the installed plug-ins.
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
