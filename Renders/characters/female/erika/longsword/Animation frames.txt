@@ -16,7 +16,6 @@ longsword_attack_left_down:
 longsword_attack_left_up: 
 longsword_attack_right: 
 longsword_attack_right_down: 
-longsword_attack_right_up: 
 longsword_death_left: 
 longsword_death_right: 
 longsword_dodge: 
@@ -32,3 +31,5 @@ longsword_block_start: ? fps
 longsword_block_end: ? fps
 longsword_block: ? fps
 longsword_block_impact: ? fps
+longsword_attack: ? fps
+longsword_dodge: ? fps
