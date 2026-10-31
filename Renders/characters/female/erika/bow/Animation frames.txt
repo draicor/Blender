@@ -14,7 +14,7 @@ bow_kick: 1, 6, 11, 21, 26, 31, 38
 bow_stagger_front: 7, 13, 19, 25, 31
 bow_stagger_back: 4, 8, 12, 16
 bow_stagger_head: 4, 8, 12, 20
-bow_roll: 5, 10, 15, 20, 25, 29, 36, 42, 45, 48
+bow_dodge: 5, 10, 15, 20, 25, 29, 36, 42, 45, 48
 bow_block_start: 44, 37, 32
 bow_block_end: 32, 37, 44
 bow_block: 28, 30, 32
@@ -33,7 +33,7 @@ bow_bash: 10 fps
 bow_kick: 8 fps
 bow_death: 8 fps
 bow_stagger: 8 fps
-bow_roll: 10 fps
+bow_dodge: 10 fps
 bow_block_start: 12 fps
 bow_block_end: 12 fps
 bow_block: 2 fps
