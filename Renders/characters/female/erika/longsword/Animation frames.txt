@@ -1,16 +1,16 @@
-Animation Frames:
-longsword_idle: 
-longsword_walk: 
-longsword_run: 
-longsword_stagger_head:
-longsword_stagger_right:
-longsword_stagger_left:
+Animation Frames: 
+longsword_idle: 1, 7, 15, 20, 25, 30, 40
+longsword_walk: 2, 4, 8, 13, 15, 18, 21, 24, 28, 30
+longsword_run: 1, 3, 7, 11, 14, 17, 20, 22
+longsword_stagger_head: 4, 8, 12, 16
+longsword_stagger_right: 6, 10, 14, 18
+longsword_stagger_left: 6, 10, 14, 18
 longsword_roll: 
-longsword_block_start: 
-longsword_block_end: 
-longsword_block: 
-longsword_block_impact: 
-longsword_attack_down: 
+longsword_block_start: 5, 10, 20
+longsword_block_end: 4, 5, 7
+longsword_block: 1, 31, 61, 91
+longsword_block_impact: 4, 8, 10
+longsword_attack_down: 13, 18, 24, 29, 37, 44, 50, 65
 longsword_attack_left: 
 longsword_attack_left_down: 
 longsword_attack_left_up: 
@@ -18,7 +18,7 @@ longsword_attack_right:
 longsword_attack_right_down: 
 longsword_death_left: 
 longsword_death_right: 
-longsword_dodge: 
+longsword_dodge: 4, 6, 9, 11, 13, 15, 17, 19, 21, 23, 27, 30, 34
 
 Godot frames:
 longsword_idle: ? fps
