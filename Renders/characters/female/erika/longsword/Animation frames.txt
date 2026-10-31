@@ -10,11 +10,11 @@ longsword_block_start: 5, 10, 20
 longsword_block_end: 4, 5, 7
 longsword_block: 1, 31, 61, 91
 longsword_block_impact: 4, 8, 10
-longsword_attack_down: 13, 18, 24, 29, 37, 44, 50, 65
-longsword_attack_left: 
+longsword_attack_down: 12, 15, 19, 22, 24, 26, 29, 37, 44, 48, 58, 65
+longsword_attack_left: 3, 5, 8, 14, 17, 19, 24, 29, 34, 42
 longsword_attack_left_down: 
 longsword_attack_left_up: 
-longsword_attack_right: 
+longsword_attack_right: 5, 8, 10, 14, 16, 20, 23, 26, 32, 36, 41, 50
 longsword_attack_right_down: 
 longsword_death_left: 
 longsword_death_right: 
