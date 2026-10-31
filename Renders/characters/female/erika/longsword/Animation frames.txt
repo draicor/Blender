@@ -20,14 +20,14 @@ longsword_death_left:
 longsword_death_right: 
 
 Godot frames:
-longsword_idle: ? fps
-longsword_walk: ? fps
-longsword_run: ? fps
+longsword_idle: 5 fps
+longsword_walk: 8 fps
+longsword_run: 11 fps
 longsword_death: ? fps
-longsword_stagger: ? fps
-longsword_dodge: ? fps
-longsword_block_start: ? fps
-longsword_block_end: ? fps
-longsword_block: ? fps
-longsword_block_impact: ? fps
-longsword_attack: ? fps
+longsword_stagger: 8 fps
+longsword_dodge: 12 fps
+longsword_block_start: 12 fps
+longsword_block_end: 12 fps
+longsword_block: 3 fps
+longsword_block_impact: 6 fps
+longsword_attack_down: 8 fps
