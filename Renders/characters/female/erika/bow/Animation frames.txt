@@ -23,7 +23,7 @@ bow_block_impact: 18, 22, 26
 Godot frames:
 bow_idle: 6 fps
 bow_walk: 7 fps
-bow_run: 12 fps
+bow_run: 10 fps
 bow_draw: 14 fps
 bow_aim: 4 fps
 bow_quiver: 10 fps

@@ -1,7 +1,7 @@
 Animation Frames: 
 longsword_idle: 1, 7, 15, 20, 25, 30, 40
 longsword_walk: 2, 4, 7, 10, 13, 15, 18, 21, 24, 28, 30
-longsword_run: 1, 3, 7, 11, 14, 17, 20, 22
+longsword_run: 1, 3, 5, 9, 11, 14, 18, 20, 22
 longsword_stagger_head: 4, 8, 12, 16
 longsword_stagger_right: 6, 10, 14, 18
 longsword_stagger_left: 6, 10, 14, 18
