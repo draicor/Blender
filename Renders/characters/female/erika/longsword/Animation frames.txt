@@ -16,8 +16,9 @@ longsword_attack_left_down:
 longsword_attack_left_up: 
 longsword_attack_right: 5, 8, 10, 14, 16, 20, 23, 26, 32, 36, 41, 50
 longsword_attack_right_down: 
+longsword_death_back: 
 longsword_death_left: 
-longsword_death_right: 
+longsword_death_right:
 
 Godot frames:
 longsword_idle: 5 fps

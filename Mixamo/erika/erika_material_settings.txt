@@ -1,13 +1,14 @@
 erika's skin material needs to have:
-metallic: 0.7
-roughness: 1.0
-IOR: 1.5
-Subsurface: random walk (skin)
-weight: 0.1
+metallic: 0.0
+roughness: 0.6
+IOR: 1.4
+Subsurface: Christensen-Burley
+weight: 0.2
 radius: 1.0, 0.35, 0.2
+scale: 0.05m
 
 The sun in the scene needs to have:
-strength: 1.0
+strength: 2.0 # else the invisible plane is visible
 exposure: 1.0
 angle: 0.526°
 shadows: active
@@ -15,3 +16,5 @@ Rotation:
 X: 45°
 Y: 0°
 Z: 60°
+
+floor material has to have a color ramp set to linear with two color stops, at pos 0.5 pure black, and at pos 1.0 pure white
