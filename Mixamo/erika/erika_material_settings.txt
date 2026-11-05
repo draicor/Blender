@@ -1,0 +1,17 @@
+erika's skin material needs to have:
+metallic: 0.7
+roughness: 1.0
+IOR: 1.5
+Subsurface: random walk (skin)
+weight: 0.1
+radius: 1.0, 0.35, 0.2
+
+The sun in the scene needs to have:
+strength: 1.0
+exposure: 1.0
+angle: 0.526°
+shadows: active
+Rotation:
+X: 45°
+Y: 0°
+Z: 60°
