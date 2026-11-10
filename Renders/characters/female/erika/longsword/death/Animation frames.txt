@@ -1,0 +1,12 @@
+Animation Frames:
+from Longs_KO_2.fbx (longsword_death_back):
+death_sw: 2, 8, 18, 26, 32, 40, 44, 52, 56, 59
+death_s: 2, 8, 18, 26, 32, 40, 44, 52, 56, 59
+death_se: 2, 8, 18, 26, 32, 40, 44, 52, 56, 59
+death_ne: 2, 8, 18, 26, 32, 40, 44, 52, 56, 59
+death_n: 2, 8, 18, 26, 32, 40, 44, 52, 56, 59
+death_nw: 2, 8, 18, 26, 32, 40, 44, 52, 56, 59
+
+from Standing Death Right 02.fbx (bow_death_e):
+death_w: 4, 8, 13, 19, 24, 27, 32, 37, 42, 46, 55, 59, 67
+death_e: 4, 8, 13, 19, 24, 27, 32, 37, 42, 46, 55, 59, 67
