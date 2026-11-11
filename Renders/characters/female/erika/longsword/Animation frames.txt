@@ -12,13 +12,11 @@ longsword_block: 1, 31, 61, 91
 longsword_block_impact: 4, 8, 10
 longsword_attack_down: 12, 15, 19, 22, 24, 26, 29, 37, 44, 48, 58, 65
 longsword_attack_left: 3, 5, 8, 14, 17, 19, 24, 29, 34, 42
-longsword_attack_left_down: 
-longsword_attack_left_up: 
 longsword_attack_right: 5, 8, 10, 14, 16, 20, 23, 26, 32, 36, 41, 50
-longsword_attack_right_down: 
-longsword_death_back: 
-longsword_death_left: 
-longsword_death_right:
+longsword_attack_motion_left: 4, 8, 12, 16, 20, 23, 27, 30, 33, 36, 40, 45, 50
+longsword_attack_motion_right: 6, 10, 12, 14, 17, 20, 23, 26, 29, 32, 36, 40, 45
+longsword_attack_motion_down: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52
+longsword_attack_motion_thrust: 4, 6, 9, 14, 16, 18, 20, 22, 26, 30, 35, 40, 45
 
 Godot frames:
 longsword_idle: 5 fps
@@ -33,8 +31,7 @@ longsword_block_impact: 6 fps
 longsword_attack_down: 10 fps
 longsword_attack_left: 10 fps
 longsword_attack_right: 10 fps
-longsword_attack_left_down: 
-longsword_attack_left_up: 
-longsword_attack_right_down: 
-longsword_death_left: 
-longsword_death_right: 
+longsword_attack_motion_left: 
+longsword_attack_motion_right: 
+longsword_attack_motion_down: 
+longsword_attack_motion_thrust:
