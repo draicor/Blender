@@ -1,0 +1,6 @@
+short sword max length is 8m
+bastard sword max length is 0.95m
+longsword max length is 1.1m (even thrust works) 0.85m scabbard
+greatsword max length is 1.2m (no thrust animations)
+
+scabbard_longsword 0.85m in length, was added to the mixamo:spine2 bone, next to the quiver, following the angle of the quiver, and its the best option for this, I tried the hips and left leg bones and it wont work, not compatible with most animations.
