@@ -27,7 +27,7 @@ bow_block_end: 12 fps
 bow_block_impact: 6 fps
 bow_block_start: 12 fps
 bow_death: 8 fps
-bow_dodge: 10 fps
+bow_dodge: 9 fps
 bow_draw: 14 fps
 bow_fire: 13 fps
 bow_idle: 6 fps
