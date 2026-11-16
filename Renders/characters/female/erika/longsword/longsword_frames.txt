@@ -1,0 +1,37 @@
+longsword animation frames:
+longsword_attack_down: 9, 12, 15, 17, 22, 24, 26, 39, 44, 48, 58, 65 <-- hitbox
+longsword_attack_left: 3, 5, 8, 14, 17, 19, 24, 29, 34, 42
+longsword_attack_motion_left: 4, 8, 12, 16, 20, 23, 27, 30, 33, 36, 40, 45, 50
+longsword_attack_motion_right: 6, 10, 12, 14, 17, 20, 23, 26, 29, 32, 36, 40, 45
+longsword_attack_motion_thrust: 4, 6, 9, 14, 16, 18, 20, 22, 26, 30, 35, 40, 45
+longsword_attack_right: 5, 8, 10, 14, 16, 20, 23, 26, 32, 36, 41, 50
+longsword_block: 1, 31, 61, 91
+longsword_block_end: 5, 6, 7, 9 <-- added 1 frame
+longsword_block_impact: 4, 8, 10
+longsword_block_start: 2, 3, 4, 5 <-- added 1 frame
+longsword_dodge: 4, 6, 9, 11, 13, 15, 17, 19, 21, 23, 27, 30, 34
+longsword_idle: 1, 7, 15, 20, 25, 30, 40
+longsword_run: 1, 3, 5, 9, 11, 14, 18, 20, 22
+longsword_stagger_head: 4, 8, 12, 16
+longsword_stagger_left: 6, 10, 14, 18
+longsword_stagger_right: 6, 10, 14, 18
+longsword_walk: 2, 4, 7, 10, 13, 15, 18, 21, 24, 28, 30
+
+Godot frames:
+longsword_attack_down: 10 fps
+longsword_attack_left: 10 fps
+longsword_attack_motion_left: 10 fps
+longsword_attack_motion_right: 10 fps 
+longsword_attack_motion_thrust: 10 fps
+longsword_attack_right: 10 fps
+longsword_block: 3 fps
+longsword_block_end: 12 fps
+longsword_block_impact: 6 fps
+longsword_block_start: 12 fps
+longsword_dodge: 12 fps
+longsword_idle: 5 fps
+longsword_run: 11 fps
+longsword_stagger: 8 fps
+longsword_walk: 10 fps
+
+deleted attack_motion_down! didn't like automatic move after attacking
