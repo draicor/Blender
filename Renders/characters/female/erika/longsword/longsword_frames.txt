@@ -17,7 +17,7 @@ longsword_stagger_left: 6, 10, 14, 18
 longsword_stagger_right: 6, 10, 14, 18
 longsword_walk: 2, 4, 7, 10, 13, 15, 18, 21, 24, 28, 30
 longsword_equip: 1, 4, 6, 8, 11, 16, 21, 26, 30
-longsword_stow: 
+longsword_stow: 30, 26, 21, 16, 11, 8, 6, 4, 1
 
 Godot frames:
 longsword_attack_down: 10 fps
