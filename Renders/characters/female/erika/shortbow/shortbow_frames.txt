@@ -17,6 +17,8 @@ bow_stagger_back: 4, 8, 12, 16
 bow_stagger_front: 7, 13, 19, 25, 31
 bow_stagger_head: 4, 8, 12, 20
 bow_walk: 1, 7, 12, 17, 22, 27, 32
+bow_equip:
+bow_stow: 
 
 Godot frames:
 bow_aim: 4 fps
