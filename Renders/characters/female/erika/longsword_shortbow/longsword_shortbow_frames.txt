@@ -35,6 +35,8 @@ longsword_idle: 5 fps
 longsword_run: 11 fps
 longsword_stagger: 8 fps
 longsword_walk: 10 fps
+longsword_equip: 10 fps
+longsword_stow: 10 fps
 
 --------------------------------------------------------------------------------
 
@@ -94,6 +96,8 @@ bow_quiver: 10 fps
 bow_run: 10 fps
 bow_stagger: 8 fps
 bow_walk: 7 fps
+bow_equip: 10 fps
+bow_stow: 10 fps
 
 Arrow notes:
 We need to make our projectile spawn in the same frame of the animation where we don't spawn the arrow in the sprite anymore.

@@ -35,3 +35,5 @@ longsword_idle: 5 fps
 longsword_run: 11 fps
 longsword_stagger: 8 fps
 longsword_walk: 10 fps
+longsword_equip: 10 fps
+longsword_stow: 10 fps
