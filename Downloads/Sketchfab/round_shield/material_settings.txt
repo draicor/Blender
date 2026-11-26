@@ -1,0 +1,3 @@
+Disconnected the metallic image in shader editor and set metallic to 0.0 to have it be less reflective, otherwise in the render you see weird white stuff.
+
+Also modified the UV a bit, to remove white parts from the wooden shield on the exterior face, use the erika.blend round_shield instead.

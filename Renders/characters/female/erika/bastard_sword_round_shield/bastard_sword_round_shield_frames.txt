@@ -1,0 +1,11 @@
+bastard sword round shield animation frames:
+bastard_sword_round_shield_idle: 1
+
+
+Godot frames:
+
+---------------------------------------
+
+bastard sword round shield death animation frames:
+
+
