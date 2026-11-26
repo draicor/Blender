@@ -1,4 +1,7 @@
+Every attack motion used the "spin" version from the source files.
+
 bastard sword round shield animation frames:
+bastard_sword_equip_shield: 1, 8, 13, 18, 22, 27, 40
 bastard_sword_round_shield_idle: 1
 
 
@@ -8,4 +11,7 @@ Godot frames:
 
 bastard sword round shield death animation frames:
 
-
+diagonals: bow_death_diagonals (duplicate and modify a bit)
+east: bow_death_e (duplicate and modify)
+west: bow_death_w (duplicate and modify)
+north/south: sword_shield_death_front as is.
