@@ -1,11 +1,11 @@
 Every attack motion used the "spin" version from the source files.
 
 bastard sword round shield animation frames:
+bastard_sword_round_shield_idle: 1, 6, 11, 16, 21, 26, 32, 68, 71, 75, 83, 90
 bastard_sword_equip_shield: 1, 8, 13, 18, 22, 27, 40
-bastard_sword_round_shield_idle: 1
-
 
 Godot frames:
+idle: 5 fps
 
 ---------------------------------------
 
